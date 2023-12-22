@@ -1,5 +1,2 @@
-<h2>What all I used? </h2>
-<li>HTML</li>
-<li>CSS</li>
-<li>JavaScript</li>
-<li>Google Fonts API</li>
+<h2>Responsive Youtube Clone Project - HTML & CSS This project is a clone of the YouTube homepage, created using HTML and CSS. It is fully responsive, meaning it will look good on all screen sizes, from desktop to mobile. </h2>
+
